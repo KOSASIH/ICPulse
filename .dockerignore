@@ -1,0 +1,5 @@
+# Ignore development and test files
+node_modules
+npm-debug.log
+.git
+.vscode
