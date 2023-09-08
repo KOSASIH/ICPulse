@@ -5,7 +5,7 @@ Navigating the Web 3.0
 
 1. [Description](#description)
 2. [Vision And Mission](#vision-and-mission)
-3. [Problem Statement](#problem-statement) 
+3. [Problem Statements](#problem-statement) 
 
 # Description 
 
