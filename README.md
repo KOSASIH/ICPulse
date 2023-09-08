@@ -1,6 +1,12 @@
 # ICPulse
 Navigating the Web 3.0
 
+# Contents 
+
+1. [Description](#description)
+2. [Vision And Mission](#vision-and-mission)
+3. [Problem Statement](#problem-statement) 
+
 # Description 
 
 ICPulse is your gateway to the Internet of the future. We harness the power of the Internet Computer Protocol (ICP) to provide a seamless, decentralized web experience. Explore a censorship-resistant, user-centric internet where data privacy and security are paramount. Join us on a journey to redefine online interactions, ensuring a pulse of innovation and trust in the evolving digital landscape. Welcome to ICPulse - where the future of the web beats with decentralized promise.
