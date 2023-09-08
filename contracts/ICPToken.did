@@ -1,0 +1,11 @@
+// Define your Internet Computer smart contract here
+// This is just a sample contract
+module ICPToken {
+    public type Token = record {
+        id: nat;
+        owner: principal;
+        balance: nat;
+    };
+
+    public func transfer(receiver: principal, amount: nat) : async bool;
+};
