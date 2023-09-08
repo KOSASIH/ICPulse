@@ -34,7 +34,9 @@ Welcome to ICPulse - where the future of the web beats with decentralized promis
 # Vision And Mission
 
 **Vision:**
+
 "To be the pioneering force in the transformation of the digital landscape, leading the charge in realizing the full potential of the Internet Computer Protocol (ICP). We envision a decentralized, secure, and user-centric internet where individuals have full control over their online presence and interactions."
 
 **Mission:**
+
 "At ICPulse, our mission is to empower individuals and organizations to navigate the Web 3.0 with confidence. We strive to create a vibrant ecosystem built on ICP, where users can securely connect, share, and transact. Our commitment to innovation, decentralization, and user privacy drives us to build cutting-edge solutions and foster a thriving community that shapes the future of the internet."
