@@ -1,11 +1,21 @@
 # ICPulse
 Navigating the Web 3.0
 
-# Contents 
+# Table Of Contents 
 
 1. [Description](#description)
 2. [Vision And Mission](#vision-and-mission)
 3. [Problem Statements](#problem-statements) 
+
+4. [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+5. [Features](#features)
+6. [Usage](#usage)
+7. [Contributing](#contributing)
+8. [License](#license)
+9. [Acknowledgments](#acknowledgments)
+
 
 # Description 
 
@@ -93,9 +103,7 @@ here are a problems statements or challenges for ICPulse:
 
 These problem statements cover a wide range of challenges that you might encounter while developing ICPulse. They can serve as a starting point for defining the goals and objectives of your project and guide your development efforts.
 
-# ICPulse
 
-ICPulse is a decentralized social networking platform built on the Internet Computer Protocol (ICP). It empowers users to connect, share content, and engage in a decentralized and censorship-resistant environment.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
