@@ -103,18 +103,6 @@ here are a problems statements or challenges for ICPulse:
 
 These problem statements cover a wide range of challenges that you might encounter while developing ICPulse. They can serve as a starting point for defining the goals and objectives of your project and guide your development efforts.
 
-
-
-## Table of Contents
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Features](#features)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
 ## Getting Started
 
 ### Prerequisites
