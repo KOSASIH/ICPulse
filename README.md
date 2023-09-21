@@ -109,7 +109,7 @@ These problem statements cover a wide range of challenges that you might encount
 
 Before you begin, ensure you have met the following requirements:
 
-- [Internet Computer SDK](https://sdk.dfinity.org/docs/download.html) - Install the Internet Computer SDK to interact with the platform.
+- [Internet Computer SDK](https://internetcomputer.org/docs/current/developer-docs/setup/install/) - Install the Internet Computer SDK to interact with the platform.
 - [Node.js](https://nodejs.org/) - Make sure you have Node.js installed for building the frontend.
 
 ### Installation
